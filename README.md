@@ -13,8 +13,19 @@ This project is deployed at : [https://fathomless-forest-77595.herokuapp.com/](h
 
 This site is to allow for tracking user workout information. 
 
+## Screenshot
+
+![screenshot](assets\workoutTracker.PNG)
+
+
 ## Credits
 
 Worked on this with my tutor Brian Lee.
 
-Uses MongoDB, Mongoose, Express, and morgan
+Uses MongoDB, Mongoose, Express, and morgan packages.
+
+
+
+
+
+
